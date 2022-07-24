@@ -3,10 +3,6 @@
 - 🌱 Now I’m upgrading my knowledge on JS, then I will study React.js and React Native.
 - 📫 How to reach me https://vk.com/zverina1337
 
-<!---
-Zverina1337/Zverina1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 THEN ONLY ASCII ART.
 
           .                                                      .
