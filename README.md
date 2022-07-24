@@ -3,7 +3,6 @@
 - 🌱 Now I’m upgrading my knowledge on JS, then I will study React.js and React Native.
 - 📫 How to reach me https://vk.com/zverina1337
 
-    ((     ) (          )             (     ) (   )>
          > \/^/) )) (   ( /(.      ))     ))._/(__))./ (_.
         (  _../ ( \))    )   \ (  / \.  ./ ||  ..__:|  _. \
         |  \__.  ) |   (/  /: :)) |   \/   |(  <.._  )|  ) )
@@ -11,5 +10,5 @@
        (: <     ):  --:   ^  \  )(   )\/:   /   /_/ ) :._) :
         \..)   (_..  ..  :    :  : .(   \..:..    ./__.  ./
                    ^    ^      \^ ^           ^\/^     ^
-                   
+
 GOOD LUCK!❤️
