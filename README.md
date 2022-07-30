@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zverina1337
 - 👀 I’m interested in WEB development (JavaScript, PHP, CSS & HTML (of course), React.JS, React Native)
-- 🌱 Now I’m upgrading my knowledge on JS, then I will study React.js and React Native.
+- 🌱 Now I’m learning a js-platform Node.js.
 - 📫 How to reach me https://vk.com/zverina1337
 
          > \/^/) )) (   ( /(.      ))     ))._/(__))./ (_.
