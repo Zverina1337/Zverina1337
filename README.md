@@ -1,6 +1,4 @@
-<h1 align="center">🐉 Zverina1337 </h1>
-
-## About Me 👋
+<h1 align="center">🐉 Zverina1337/Zverinacode </h1>
 
 I am a Full-Stack Developer focused on building modern and high-performance web applications. My primary expertise lies in the frontend, where I prefer Vue 3 and its ecosystem, and I also possess strong skills in React/Next.js. On the backend, I have frequently used Express, but I have now transitioned to using Nest.js for building scalable and maintainable applications.
 
