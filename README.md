@@ -1,32 +1,21 @@
 <h1 align="center">🐉 Zverina1337 </h1>
 
-## 🛠️ Мой стек технологий
+<p align="center">
+  ### 🌐 Front-end
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,sass," height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,redux,pinia,vite,webpack,threejs," height="35"/>
+  ### 🖥️ Back-end
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel," height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,sequelize,graphql,firebase," height="35" />
+  ### 🛠️ Instruments and DevOps
+  <img src="https://skillicons.dev/icons?i=docker,vercel,gitlab,github," height="40" />
+  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,npm,pnpm,gulp,postman,figma," height="35" />
+</p>
 
-### 🌐 Фронтенд
-**Основные фреймворки:**
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,sass," />
-
-**Сопутствующие технологии:**
-<img src="https://skillicons.dev/icons?i=js,ts,redux,pinia,vite,webpack,threejs," />
-
-### 🖥️ Бэкенд
-**Серверные платформы и фреймворки:**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel," />
-
-**Базы данных и ORM:**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,sequelize,graphql,firebase," />
-
-### 🛠️ Инструменты и DevOps
-**Развертывание и контейнеризация:**
-<img src="https://skillicons.dev/icons?i=docker,vercel,gitlab,github," />
-
-**Системы и пакетные менеджеры:**
-<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,npm,pnpm,gulp,postman,figma," />
-
-###
 ### Backend Development
 *   **Node.js / Nest.js** ▰▰▰▰▰▰▰▰▱ 85%
 *   **PHP / Laravel** ▰▰▰▰▱▱▱▱▱ 40%
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
