@@ -1,9 +1,11 @@
 <h1 align="center">🐉 Zverina1337 </h1>
 
 
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)]
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ###
 
