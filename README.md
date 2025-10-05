@@ -24,7 +24,9 @@
 <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,npm,pnpm,gulp,postman,figma," />
 
 ###
-
+### Backend Development
+*   **Node.js / Nest.js** ▰▰▰▰▰▰▰▰▱ 85%
+*   **PHP / Laravel** ▰▰▰▰▱▱▱▱▱ 40%
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
