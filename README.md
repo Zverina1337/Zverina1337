@@ -1,11 +1,27 @@
 <h1 align="center">🐉 Zverina1337 </h1>
 
+## 🛠️ Мой стек технологий
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,css,express,figma,firebase,gitlab,github,graphql,gulp,html,js,ts,linux,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,pinia,postgres,postman,prisma,pnpm,npm,php,laravel,react,redux,sass,sqlite,sequelize,tailwind,threejs,ubuntu,vercel,vite,vue,webpack," />
-  </a>
-</p>
+### 🌐 Фронтенд
+**Основные фреймворки:**
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,sass," />
+
+**Сопутствующие технологии:**
+<img src="https://skillicons.dev/icons?i=js,ts,redux,pinia,vite,webpack,threejs," />
+
+### 🖥️ Бэкенд
+**Серверные платформы и фреймворки:**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel," />
+
+**Базы данных и ORM:**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,sequelize,graphql,firebase," />
+
+### 🛠️ Инструменты и DevOps
+**Развертывание и контейнеризация:**
+<img src="https://skillicons.dev/icons?i=docker,vercel,gitlab,github," />
+
+**Системы и пакетные менеджеры:**
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,npm,pnpm,gulp,postman,figma," />
 
 ###
 
